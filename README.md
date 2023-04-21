@@ -1,7 +1,5 @@
 # Mastering Machine Learning with PySpark - Loan Prediction
 
-**Complete Video Tutorial:** https://youtu.be/2OAa7lX8dxo
-
 # Project Information
 
 The goal of this project is to demonstrate the use of PySpark and Machine Learning to predict loan approvals. The project will involve the following steps:
